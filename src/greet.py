@@ -3,4 +3,4 @@ def greet (name):
 	print("Hello " + name)
 
 def print_version():
-    print("1.0.1")
+    print("1.0.2")
